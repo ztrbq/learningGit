@@ -1,4 +1,8 @@
 # learningGit
 For git self-studying
-## 9月27日
-创建repo，添加readme，创建本地SSH-key，添加rsa
+* * *
+## Sept 29th
+* create repo，add readme，create local SSH-key，add rsa-key to github
+* clone repo learningGit，add php script
+* **add to local git, commit it, and the push it to github**
+* * *
